@@ -23,7 +23,7 @@ button {
   cursor: pointer;
 }
 
-button.primary {
+button.stock-btn {
   background-color: var(--green);
   color: white;
 }
